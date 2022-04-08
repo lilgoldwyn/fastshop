@@ -1,0 +1,71 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+.carousel-item{
+    height: 500px !important;
+}
+h2{
+    color: black;
+}
+.carousel-caption{
+    left: 5%;
+    bottom: 40%;
+    width: fit-content;
+    /* background-color: rgba(0, 0, 0, 0.1); */
+    padding: 20px;
+}
+.keypoint-card{
+    height: 200px;
+    width: auto;
+}
+.keypoint-img{
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin: 10px auto;
+}
+.cardingimg{
+    height: 250px;
+    width: 250px;
+    margin: 35px auto;
+    /* margin-left: 15px; */
+}
+.lee{
+    border-color: black;
+    border-style: solid;
+    border-width: 0.5px;
+}
+.sale{
+
+    margin-top: -550px;
+    margin-left: 10px;
+}
+.money{
+    margin-top: -30px;
+    margin-left: 10px;
+}
+.bag-cont{
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+p{
+    color: gray;
+}
+.word1{
+    color: black;
+    margin-left: 50px;
+    margin-top: 90px;
+}
+.btn {
+    background-color: rgb(241, 93, 39);
+    color: white;
+}
+.bttn{
+    margin-left: 130px;
+}
+.gee{
+    color: black;
+    margin-left: 100px;
+}
